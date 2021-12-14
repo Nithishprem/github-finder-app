@@ -8,7 +8,6 @@ function RepoItem({repo}) {
         description,
         html_url,
         forks,
-        open_issues,
         watchers_count,
         stargazers_count,
     }=repo
